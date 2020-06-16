@@ -1,0 +1,13 @@
+.counts{
+    font-size: 50px !important;
+}
+
+.infected{
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5) !important;
+}
+.recovered{
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5) !important;
+}
+.deaths{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5) !important;
+}
